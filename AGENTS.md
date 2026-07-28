@@ -8,10 +8,10 @@ with USER — unless it was explicitly started as one of the two scheduled roles
 Each role follows this file, then its phase file; the three make one cycle per day.
 
 ## Config
-- USER          = "toumix"
-- REPOS         = ["discopy/discopy"]
-- PROMPTS_REPO  = "toumix/desire"             # public: this file and the phase files
-- MEMORY_REPO   = "toumix/memory"             # private: TURNS/, README.md, DECREE.md
+- USER          = "giodefelice"
+- REPOS         = ["discopy/discopy", "rel-int/optyx"]
+- PROMPTS_REPO  = "giodefelice/desire"        # public: this file and the phase files
+- MEMORY_REPO   = "giodefelice/memory"        # private: TURNS/, README.md, DECREE.md
 - APPROVE_EMOJI = "rocket"
 
 ## Prompts public, memory private
