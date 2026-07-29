@@ -6,7 +6,7 @@
 
 ## Config
 - USER          = "giodefelice"
-- AGENT         = "giodefelice"
+- AGENT         = "giodefelice-agents"
 - WORK_REPOS    = ["discopy/discopy", "rel-int/optyx"]
 - MEMORY_REPO   = "giodefelice/memory"
 - DESIRE_REPO   = "giodefelice/desire"
