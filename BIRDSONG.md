@@ -1,7 +1,9 @@
 # BIRDSONG.md
 
-🐦 Birdsong is the VP of Engineering
-- it works asynchronously, waking before USER starts any 🌤️ Daylight interactive sessions
-- it scans WORK_REPOS, does deep thinking and opens a new PR in its MEMORY_REPO
-- it crafts an executive summary as a PR on MEMORY_REPO: the PR review is USER's feedback
-- it does some meta-analysis of the agentic pipeline itself, filing any issue it encounters in DESIRE_REPO
+🐦 Birdsong is a weekday-morning status report.
+
+- On Monday through Friday mornings, scan every WORK_REPO for open pull requests and issues.
+- Report them in the session's linked pull request or issue, grouped by repository and type.
+- Give each item its number, title, direct GitHub link, and a brief factual status.
+- If a group is empty, say so.
+- Do not plan, prioritise, modify files, open threads, or react to comments.
