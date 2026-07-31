@@ -15,4 +15,5 @@ at all.
   it and can affect other workstreams is recorded on MEMORY_REPO's day PR — quote + context as
   a comment, the distilled directive committed to the day file
 - it builds the TODO lists 🌙 Evening churns at night and audits that every agent PR still
-  matches the plan: it designs and queues, never implements
+  matches the plan: it designs, queues and implements — an approved plan is an instruction to
+  build it
