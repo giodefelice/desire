@@ -6,8 +6,9 @@
 
 Software engineering prompts inspired by the asymmetric board game Root:
 
-- 🐦 [Birdsong](BIRDSONG.md) wakes once each morning with a digest of your open issues and PRs
-- 🌤️ [Daylight](DAYLIGHT.md) activates in every interactive session you open
+- 🐦 [Birdsong](BIRDSONG.md) wakes at 6am with a digest of your open issues and PRs
+- 🌤️ [Daylight](DAYLIGHT.md) activates in every remote session you open: plan, then implement
+- 🌙 [Evening](EVENING.md) wakes at 1am, reviews the open PRs and proposes improvements
 
 [AGENTS.md](AGENTS.md) is the operating base they all follow: config, the two layers of memory,
 what authorizes a change. It is deliberately short (under a hundred lines with the phase files)
